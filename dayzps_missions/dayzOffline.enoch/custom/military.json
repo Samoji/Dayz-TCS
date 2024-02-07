@@ -1,5 +1,5 @@
 {
-    "spawnWeight": 1,
+    "spawnWeight": 1000,
     "name": "Military - AKM",
     "characterTypes": [
         "SurvivorF_Judy",
