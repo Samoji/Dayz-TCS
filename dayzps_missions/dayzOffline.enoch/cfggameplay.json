@@ -10,13 +10,13 @@
     "PlayerData":
 	{
 		"disablePersonalLight": false,
-		"spawnGearPresetFiles": ["custom/military.json"],
+		"spawnGearPresetFiles": ["custom/starters.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
+			"staminaMax": 250.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
 			"staminaMinCap": 5.0,
 			"sprintSwimmingStaminaModifier": 1.0,
@@ -95,9 +95,9 @@
 	},
 	"MapData":
 	{
-		"ignoreMapOwnership": false,
-		"ignoreNavItemsOwnership": false,
-		"displayPlayerPosition": false,
+		"ignoreMapOwnership": true,
+		"ignoreNavItemsOwnership": true,
+		"displayPlayerPosition": true,
 		"displayNavInfo": true
 	}
 }
