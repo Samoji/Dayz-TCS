@@ -36,12 +36,12 @@ Example messages:
 
 4) following message will be displayed once
     and 1 minutes after player connect
- -->
+-->
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
-        <text>#name, sei un KDM!</text>
+        <text>Hello #name! This server is for TEST only!</text>
     </message>
-   
+    
 
 </messages>
