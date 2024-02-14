@@ -71,11 +71,11 @@
 				<item name="HuntingKnife" chance="1.00" />
 				<item name="TetracyclineAntibiotics" chance="1.00" />
 				<item name="Flashlight" chance="1.00" />
-				<item name="Battery9V" chance="1.00" />
+				<item name="Battery9V" chance="0.00" />
 		</cargo>
 		<cargo chance="0.2" name="toolsVillage">
 				<item name="DuctTape" chance="0.07" />
-				<item name="Battery9V" chance="0.07" />
+				<item name="Battery9V" chance="0.00" />
 				<item name="Matchbox" chance="0.07" />
 				<item name="SewingKit" chance="0.07" />
 				<item name="CanOpener" chance="0.05" />
@@ -85,7 +85,7 @@
 		</cargo>
 		<cargo chance="0.2" name="toolsCity"> <!--same as the one above - just preparing -->
 				<item name="DuctTape" chance="0.07" />
-				<item name="Battery9V" chance="0.07" />
+				<item name="Battery9V" chance="0.00" />
 				<item name="Matchbox" chance="0.07" />
 				<item name="SewingKit" chance="0.07" />
 				<item name="CanOpener" chance="0.05" />
@@ -107,7 +107,7 @@
 				<item name="Thermometer" chance="0.05" />
 		</cargo>
 		<cargo chance="0.25" name="toolsPolice">
-				<item name="Battery9V" chance="0.1" />
+				<item name="Battery9V" chance="0.00" />
 				<item name="PersonalRadio" chance="0.1" />
 				<item name="Flashlight" chance="0.15" />
 				<item name="Roadflare" chance="0.2" />
@@ -118,7 +118,7 @@
 		<cargo chance="0.15" name="toolsHunter">
 				<item name="Paper" chance="0.1" />
 				<item name="Flashlight" chance="0.1" />
-				<item name="Battery9V" chance="0.1" />
+				<item name="Battery9V" chance="0.00" />
 				<item name="Matchbox" chance="0.15" />
 				<item name="Roadflare" chance="0.1" />
 				<item name="HuntingKnife" chance="0.05" />
@@ -135,7 +135,7 @@
 				<item name="Crowbar" chance="0.07" />
 				<item name="Rope" chance="0.1" />
 				<item name="DuctTape" chance="0.1" />
-				<item name="Battery9V" chance="0.2" />
+				<item name="Battery9V" chance="0.00" />
 				<item name="Flashlight" chance="0.2" />
 		</cargo>
 		<cargo chance="0.15" name="ammoCivil">
@@ -166,7 +166,7 @@
 		</cargo>
 		<cargo chance="0.1" name="mixVillage">
 				<item name="DuctTape" chance="0.07" />
-				<item name="Battery9V" chance="0.07" />
+				<item name="Battery9V" chance="0.00" />
 				<item name="Paper" chance="0.1" />
 				<item name="Flashlight" chance="0.1" />
 				<item name="Matchbox" chance="0.07" />
@@ -577,7 +577,7 @@
 		<cargo chance="1.0" name="Xmas_Fillers_Small">
 			<item name="XmasLights" chance="0.10" />
 			<item name="GasMask_filter" chance="0.10" />
-			<item name="Battery9V" chance="0.10" />
+			<item name="Battery9V" chance="0.00" />
 			<item name="Hook" chance="0.10" />
 			<item name="Derringer_Black" chance="0.10" />
 			<item name="Derringer_Grey" chance="0.10" />
