@@ -6576,10 +6576,10 @@
         <category name="tools"/>
     </type>
     <type name="FieldShovel">
-        <nominal>15</nominal>
+        <nominal>30</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6601,7 +6601,7 @@
         <usage name="Firefighter"/>
     </type>
     <type name="FirefighterAxe_Black">
-        <nominal>30</nominal>
+        <nominal>50</nominal>
         <lifetime>21600</lifetime>
         <restock>7200</restock>
         <min>15</min>
@@ -8048,10 +8048,10 @@
         <category name="tools"/>
     </type>
     <type name="Hacksaw">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8085,7 +8085,7 @@
         <category name="tools"/>
     </type>
     <type name="HandSaw">
-        <nominal>75</nominal>
+        <nominal>110</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>55</min>
@@ -9008,7 +9008,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Hatchet">
-        <nominal>85</nominal>
+        <nominal>120</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>60</min>
@@ -14146,10 +14146,10 @@
         <category name="tools"/>
     </type>
     <type name="PepperSeedsPack">
-        <nominal>50</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>30</min>
+        <min>40</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14221,10 +14221,10 @@
         <usage name="Village"/>
     </type>
     <type name="Pickaxe">
-        <nominal>30</nominal>
+        <nominal>50</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14572,10 +14572,10 @@
         <category name="clothes"/>
     </type>
     <type name="Pliers">
-        <nominal>60</nominal>
+        <nominal>100</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14887,10 +14887,10 @@
         <category name="clothes"/>
     </type>
     <type name="PumpkinSeedsPack">
-        <nominal>50</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>30</min>
+        <min>40</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -16574,10 +16574,10 @@
         <usage name="Village"/>
     </type>
     <type name="Shovel">
-        <nominal>60</nominal>
+        <nominal>100</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16805,10 +16805,10 @@
         <usage name="Town"/>
     </type>
     <type name="SledgeHammer">
-        <nominal>25</nominal>
+        <nominal>50</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17816,10 +17816,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalBaconCan">
-        <nominal>125</nominal>
+        <nominal>250</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>70</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18135,10 +18135,10 @@
         <category name="food"/>
     </type>
     <type name="TomatoSeedsPack">
-        <nominal>50</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>30</min>
+        <min>40</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -18940,10 +18940,10 @@
         <category name="tools"/>
     </type>
     <type name="WaterBottle">
-        <nominal>1000</nominal>
+        <nominal>200</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>800</min>
+        <min>130</min>
         <quantmin>45</quantmin>
         <quantmax>75</quantmax>
         <cost>100</cost>
@@ -21671,10 +21671,10 @@
         <category name="food"/>
     </type>
     <type name="ZucchiniSeedsPack">
-        <nominal>50</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>30</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
