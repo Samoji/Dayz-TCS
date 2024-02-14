@@ -14150,8 +14150,8 @@
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>30</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -14891,8 +14891,8 @@
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>30</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -18139,8 +18139,8 @@
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>30</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -18940,10 +18940,10 @@
         <category name="tools"/>
     </type>
     <type name="WaterBottle">
-        <nominal>200</nominal>
+        <nominal>1000</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>80</min>
+        <min>800</min>
         <quantmin>45</quantmin>
         <quantmax>75</quantmax>
         <cost>100</cost>
