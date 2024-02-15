@@ -502,14 +502,14 @@
         <usage name="Military"/>
     </type>
     <type name="AliceBag_Camo">
-        <nominal>0</nominal>
+        <nominal>120</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="containers"/>
         <usage name="Military"/>
     </type>
@@ -2678,10 +2678,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Barrel_Green">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>120</nominal>
+        <lifetime>260000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4111,10 +4111,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="CarTent">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>15</nominal>
+        <lifetime>260000</lifetime>
         <restock>43200</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10690,10 +10690,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="LargeTent">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>10</nominal>
+        <lifetime>260000</lifetime>
         <restock>43200</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13111,10 +13111,10 @@
         <value name="Tier3"/>
     </type>
     <type name="MountainBag_Green">
-        <nominal>0</nominal>
+        <nominal>50</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15790,10 +15790,10 @@
         <usage name="Village"/>
     </type>
     <type name="SeaChest">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18955,10 +18955,10 @@
         <value name="Tier2"/>
     </type>
     <type name="WaterproofBag_Green">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18967,10 +18967,10 @@
         <usage name="Coast"/>
     </type>
     <type name="WaterproofBag_Orange">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
