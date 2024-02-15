@@ -333,16 +333,16 @@
 		<cargo chance="1">
 			<item name="BandageDressing" />
 		</cargo>
-		<cargo chance="0.8">
+		<cargo chance="0.0">
 			<item name="Thermometer" />
 		</cargo>
-		<cargo chance="0.8">
+		<cargo chance="1.0">
 			<item name="StartKitIV" />
 		</cargo>
-		<cargo chance="0.8">
+		<cargo chance="1.0">
 			<item name="BloodBagEmpty" />
 		</cargo>
-		<cargo chance="0.8">
+		<cargo chance="1.0">
 			<item name="BloodTestKit" />
 		</cargo>
 	</type>
