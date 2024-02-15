@@ -4300,10 +4300,10 @@
         <usage name="Medic"/>
     </type>
     <type name="Chemlight_Blue">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4312,10 +4312,10 @@
         <usage name="Village"/>
     </type>
     <type name="Chemlight_Green">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4324,10 +4324,10 @@
         <usage name="Village"/>
     </type>
     <type name="Chemlight_Red">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4336,10 +4336,10 @@
         <usage name="Village"/>
     </type>
     <type name="Chemlight_White">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4348,10 +4348,10 @@
         <usage name="Village"/>
     </type>
     <type name="Chemlight_Yellow">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7221,10 +7221,10 @@
         <usage name="Military"/>
     </type>
     <type name="Flashlight">
-        <nominal>0</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9059,14 +9059,14 @@
         <usage name="Industrial"/>
     </type>
     <type name="Headtorch_Black">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>25</nominal>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
@@ -17222,10 +17222,10 @@
         <usage name="Village"/>
     </type>
     <type name="Spotlight">
-        <nominal>0</nominal>
-        <lifetime>604800</lifetime>
+        <nominal>20</nominal>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19887,10 +19887,10 @@
         <usage name="Village"/>
     </type>
     <type name="XmasLights">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

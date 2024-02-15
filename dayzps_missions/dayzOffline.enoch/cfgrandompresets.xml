@@ -496,8 +496,8 @@
 		
 		<!--Headtorches-->
 		<attachments chance= "0.03" name="headtorches">
-			<item name="Headtorch_Grey" chance="0.5" />
-			<item name="Headtorch_Black" chance="0.5" />
+			<item name="Headtorch_Grey" chance="0.0" />
+			<item name="Headtorch_Black" chance="1.0" />
 		</attachments>
 		<!--Xmas Clothing-->
 		<attachments chance="1.00" name="SantaHat">
@@ -622,8 +622,8 @@
 			<item name="TacticalBaconCan" chance="0.10" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Lights_Small">
-			<item name="Headtorch_Grey" chance="0.05" />
-			<item name="Headtorch_Black" chance="0.05" />
+			<item name="Headtorch_Grey" chance="0.0" />
+			<item name="Headtorch_Black" chance="0.1" />
 			<item name="NVGHeadstrap" chance="0.05" />
 			<item name="NVGoggles" chance="0.01" />
 		</cargo>
