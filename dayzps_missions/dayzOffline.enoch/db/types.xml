@@ -10978,7 +10978,7 @@
     </type>
     <type name="LeatherSewingKit">
         <nominal>50</nominal>
-        <lifetime>140400</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
         <quantmin>-1</quantmin>
