@@ -588,10 +588,10 @@
         <usage name="Village"/>
     </type>
     <type name="AmmoBox_308WinTracer_20Rnd">
-        <nominal>0</nominal>
+        <nominal>150</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>100</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10977,10 +10977,10 @@
         <category name="containers"/>
     </type>
     <type name="LeatherSewingKit">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>50</nominal>
+        <lifetime>140400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11261,10 +11261,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>0</nominal>
+        <nominal>3000</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>100</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12107,11 +12107,11 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_STANAG_60Rnd">
-        <nominal>100</nominal>
+        <nominal>1000</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>100</min>
-        <quantmin>99</quantmin>
+        <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
@@ -12707,10 +12707,10 @@
         <usage name="Military"/>
     </type>
     <type name="MilitaryBoots_Black">
-        <nominal>0</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16326,10 +16326,10 @@
         <category name="lootdispatch"/>
     </type>
     <type name="SewingKit">
-        <nominal>25</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19097,10 +19097,10 @@
         <category name="tools"/>
     </type>
     <type name="Winchester70">
-        <nominal>0</nominal>
+        <nominal>100</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min></min>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
