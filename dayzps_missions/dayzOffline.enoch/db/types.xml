@@ -19077,10 +19077,10 @@
         <usage name="Village"/>
     </type>
     <type name="Whetstone">
-        <nominal>40</nominal>
+        <nominal>60</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19088,6 +19088,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="WildboarPelt">
         <nominal>0</nominal>
