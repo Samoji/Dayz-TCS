@@ -10,7 +10,7 @@
     "PlayerData":
 	{
 		"disablePersonalLight": false,
-		"spawnGearPresetFiles": ["custom/starters.json"],
+		"spawnGearPresetFiles": ["custom/military.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 0.0,
