@@ -10300,10 +10300,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Land_Wreck_V3S_DE">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>0</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
