@@ -499,6 +499,16 @@
 			<item name="Headtorch_Grey" chance="0.0" />
 			<item name="Headtorch_Black" chance="1.0" />
 		</attachments>
+
+		<!-- TCS Custom -->
+		<cargo change="0.15" name="repairingItems">
+			<item name="SewingKit" chance="0.25"></item>
+			<item name="DuctTape" chance="0.25"></item>
+			<item name="Whetstone" chance="0.25"></item>
+			<item name="LeatherSewingKit" chance="0.25"></item>
+		</cargo>
+
+
 		<!--Xmas Clothing-->
 		<attachments chance="1.00" name="SantaHat">
 			<item name="SantasHat" chance="1.00" />
