@@ -966,9 +966,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>3</nominal>
-        <min>2</min>
-        <max>3</max>
+        <nominal>100</nominal>
+        <min>20</min>
+        <max>100</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -980,6 +980,23 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="2" min="3" type="Offroad_02"/>
+        </children>
+    </event>
+    <event name="VehicleOffroad02_TCS">
+        <nominal>2</nominal>
+        <min>2</min>
+        <max>2</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>5</saferadius>
+        <distanceradius>5</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
@@ -1016,14 +1033,12 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red"/>
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>50</nominal>
+        <min>30</min>
+        <max>50</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1035,8 +1050,6 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
 </events>

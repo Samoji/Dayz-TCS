@@ -501,11 +501,12 @@
 		</attachments>
 
 		<!-- TCS Custom -->
-		<cargo change="0.15" name="repairingItems">
-			<item name="SewingKit" chance="0.25"></item>
-			<item name="DuctTape" chance="0.25"></item>
-			<item name="Whetstone" chance="0.25"></item>
-			<item name="LeatherSewingKit" chance="0.25"></item>
+		<cargo change="0.05" name="repairingItems">
+			<item name="SewingKit" chance="0.20"></item>
+			<item name="DuctTape" chance="0.20"></item>
+			<item name="Whetstone" chance="0.20"></item>
+			<item name="LeatherSewingKit" chance="0.20"></item>
+			<item name="BandageDressing" chance="0.20"></item>
 		</cargo>
 
 
