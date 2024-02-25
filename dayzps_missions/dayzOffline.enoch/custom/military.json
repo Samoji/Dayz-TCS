@@ -339,7 +339,9 @@
                 "AmmoBox_762x39_20Rnd",
                 "CZ75",
                 "Mag_CZ75_15Rnd",
-                "AmmoBox_9x19_25rnd"
+                "AmmoBox_9x19_25rnd",
+                "CanOpener",
+                "ChernarusMap"
             ]
         }
     ]

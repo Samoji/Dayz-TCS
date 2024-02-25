@@ -47,9 +47,9 @@
 				<item name="Crackers" chance="0.00" />
 				<item name="Chips" chance="0.00" />
 		</cargo>
-		<cargo chance="0.25" name="foodArmy">
-				<item name="WaterBottle" chance="0.50" />
-				<item name="TacticalBaconCan" chance="0.50" />
+		<cargo chance="0.05" name="foodArmy">
+				<item name="WaterBottle" chance="0.15" />
+				<item name="TacticalBaconCan" chance="0.15" />
 				<item name="SodaCan_Cola" chance="0.00" />
 				<item name="SodaCan_Pipsi" chance="0.00" />
 				<item name="SodaCan_Spite" chance="0.00" />
@@ -502,11 +502,11 @@
 
 		<!-- TCS Custom -->
 		<cargo change="0.05" name="repairingItems">
-			<item name="SewingKit" chance="0.20"></item>
-			<item name="DuctTape" chance="0.20"></item>
-			<item name="Whetstone" chance="0.20"></item>
-			<item name="LeatherSewingKit" chance="0.20"></item>
-			<item name="BandageDressing" chance="0.20"></item>
+			<item name="SewingKit" chance="0.05"></item>
+			<item name="DuctTape" chance="0.05"></item>
+			<item name="Whetstone" chance="0.05"></item>
+			<item name="LeatherSewingKit" chance="0.05"></item>
+			<item name="BandageDressing" chance="0.05"></item>
 		</cargo>
 
 

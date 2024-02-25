@@ -480,10 +480,6 @@
 		<pos x="9948.848633" z="8478.275391" a="209.908218" />
 		<pos x="11030.625000" z="2163.414551" />
 	</event>
-	<event name="VehicleOffroad02_TCS">
-		<pos x="1428.6" z="7688.2" a="176.6" />
-		<pos x="7688.2" z="1428.6" a="176.6" />
-	</event>
 	<event name="VehicleHatchback02">
 		<pos x="3405.335205" z="12239.047851" a="189.571152" />
 		<pos x="3639.310303" z="11802.885742" a="54.817448" />
@@ -699,7 +695,6 @@
 		<pos x="5932.14" z="10918.0" a="0" y="182.797" group="Traffic_Brena"/>
 		<pos x="10678.632" z="1154.983" a="0" y="232.818" group="Traffic_Dolina"/>
 		<pos x="12419.815" z="6168.886" a="0" y="284.690" group="Traffic_Gierlatow"/>
-		<pos x="5234.237" z="10300.578" a="0" y="189.468" group="Traffic_Gliniska"/>
 		<pos x="3155.413" z="4940.649" a="0" y="404.867" group="Traffic_Huta"/>
 		<pos x="5583.282" z="5805.994" a="0" y="348.470" group="Traffic_Huta2"/>
 		<pos x="10999.524" z="6966.359" a="0" y="199.977" group="Traffic_karlin"/>
@@ -722,7 +717,6 @@
 		<pos x="769.045" z="6739.631" a="0" y="212.431" group="Traffic_Zalesie"/>
 	</event>
 
-    <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />

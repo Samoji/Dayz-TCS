@@ -465,7 +465,9 @@
         <position>player</position>
         <limit>custom</limit>
         <active>1</active>
-        <children/>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_NBC_Yellow" />
+        </children>
     </event>
     <event name="InfectedPolice">
         <nominal>50</nominal>
@@ -770,7 +772,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children/>
     </event>
     <event name="StaticPoliceCar">
@@ -854,7 +856,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children/>
     </event>
     <event name="TrajectoryConiferous">
@@ -922,7 +924,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="SmallStone"/>
         </children>
@@ -966,9 +968,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>100</nominal>
-        <min>20</min>
-        <max>100</max>
+        <nominal>18</nominal>
+        <min>10</min>
+        <max>18</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -980,23 +982,6 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="2" min="3" type="Offroad_02"/>
-        </children>
-    </event>
-    <event name="VehicleOffroad02_TCS">
-        <nominal>2</nominal>
-        <min>2</min>
-        <max>2</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>5</saferadius>
-        <distanceradius>5</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
@@ -1036,9 +1021,9 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>50</nominal>
-        <min>30</min>
-        <max>50</max>
+        <nominal>30</nominal>
+        <min>25</min>
+        <max>30</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
