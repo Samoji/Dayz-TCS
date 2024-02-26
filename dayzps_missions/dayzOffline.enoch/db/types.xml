@@ -5503,7 +5503,7 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="Crossbow_Autumn">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -5515,7 +5515,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="Crossbow_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -12636,6 +12636,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Underground"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
     <type name="MilitaryBelt">
@@ -19010,10 +19012,10 @@
         <usage name="Coast"/>
     </type>
     <type name="WeaponCleaningKit">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19117,16 +19119,18 @@
         <category name="tools"/>
     </type>
     <type name="Winchester70">
-        <nominal>25</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>100</quantmin>
-        <quantmax>100</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>60</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>

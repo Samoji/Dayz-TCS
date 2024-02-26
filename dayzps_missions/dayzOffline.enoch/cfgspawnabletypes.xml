@@ -2309,7 +2309,7 @@
 		</attachments>
 	</type>
 	<type name="CZ75">
-		<attachments chance="0.50">
+		<attachments chance="1.00">
 			<item name="Mag_CZ75_15Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -2425,25 +2425,25 @@
 		</attachments>
 	</type>
 	<type name="CZ527">
-		<attachments chance="0.10">
+		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="Mag_CZ527_5rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Winchester70">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.10">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Mosin9130">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.10">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.20">
 			<item name="Mosin_Compensator" chance="1.00" />
 		</attachments>
-		<attachments chance="0.05">
+		<attachments chance="1.00">
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
@@ -2454,21 +2454,21 @@
 		</attachments>
 	</type>
 	<type name="AKM">
-		<damage min="0.45" max="0.85" />
+		<damage min="0.00" max="0.00" />
 		<attachments chance="1.00">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.50">
-			<item name="KashtanOptic" chance="0.30" />
+		<attachments chance="1.00">
+			<item name="KashtanOptic" chance="0.80" />
 			<item name="PSO11Optic" chance="0.20" />
 		</attachments>
-		<attachments chance="0.10">
+		<attachments chance="0.70">
 			<item name="AK_Suppressor" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
@@ -2479,13 +2479,13 @@
 		<attachments chance="1.00">
 			<item name="AK74_Hndgrd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
-			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
+		<attachments chance="1.00">
+			<item name="KashtanOptic" chance="0.80" />
+			<item name="PSO11Optic" chance="0.20" />
 		</attachments>
-		<attachments chance="0.30">
-			<item name="Mag_AK74_45Rnd" chance="0.15" />
-			<item name="Mag_AK74_30Rnd" chance="1.00" />
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="0.80" />
+			<item name="Mag_AK74_30Rnd" chance="0.20" />
 		</attachments>
 	</type>
 	<type name="AKS74U">
@@ -2497,18 +2497,18 @@
 		</attachments>
 	</type>
 	<type name="AK101">
-		<damage min="0.3" max="0.7" />
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
-			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
+		<attachments chance="1.00">
+			<item name="KashtanOptic" chance="0.00" />
+			<item name="PSO11Optic" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
@@ -2521,50 +2521,50 @@
 			<item name="M4_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="KazuarOptic" chance="0.50" />
-			<item name="M4_CarryHandleOptic" chance="0.50" />
+			<item name="KazuarOptic" chance="0.10" />
+			<item name="M4_CarryHandleOptic" chance="0.90" />
 		</attachments>
-		<attachments chance="0.30">
-			<item name="Mag_CMAG_40Rnd" chance="1.00" />
-			<item name="Mag_CMAG_10Rnd" chance="0.00" />
-			<item name="Mag_CMAG_20Rnd" chance="0.00" />
-			<item name="Mag_CMAG_30Rnd" chance="0.00" />
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.70" />
+			<item name="Mag_CMAG_10Rnd" chance="0.10" />
+			<item name="Mag_CMAG_20Rnd" chance="0.10" />
+			<item name="Mag_CMAG_30Rnd" chance="0.10" />
 		</attachments>
 	</type>
 	<type name="M16A2">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.30">
-			<item name="Mag_CMAG_40Rnd" chance="0.15" />
-			<item name="Mag_CMAG_10Rnd" chance="0.50" />
-			<item name="Mag_CMAG_20Rnd" chance="0.70" />
-			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.70" />
+			<item name="Mag_CMAG_10Rnd" chance="0.10" />
+			<item name="Mag_CMAG_20Rnd" chance="0.10" />
+			<item name="Mag_CMAG_30Rnd" chance="0.10" />
 		</attachments>
 	</type>
 	<type name="FAMAS">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.75">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
 			<item name="Mag_FAMAS_25Rnd" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="Aug">
-		<damage min="0.1" max="0.4" />
-		<attachments chance="0.85">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
 			<item name="Mag_Aug_30Rnd" chance="0.33" />
 			<item name="Mag_CMAG_40Rnd" chance="0.33" />
 			<item name="Mag_STANAG_60Rnd" chance="0.33" />
 		</attachments>
-		<attachments chance="0.30">
-			<item name="BUISOptic" chance="0.15" />
-			<item name="M4_T3NRDSOptic" chance="0.15" />
-			<item name="ReflexOptic" chance="0.15" />
-			<item name="ACOGOptic" chance="0.15" />
+		<attachments chance="1.00">
+			<item name="BUISOptic" chance="0.25" />
+			<item name="M4_T3NRDSOptic" chance="0.25" />
+			<item name="ReflexOptic" chance="0.25" />
+			<item name="ACOGOptic" chance="0.25" />
 		</attachments>	
-		<attachments chance="0.10">
+		<attachments chance="0.50">
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="AugShort">
-		<damage min="0.3" max="0.7" />
+		<damage min="0.0" max="0.0" />
 		<attachments chance="0.85">
 			<item name="Mag_Aug_30Rnd" chance="1.0" />
 		</attachments>
@@ -2684,11 +2684,11 @@
 		</attachments>
 	</type>
 	<type name="CZ550">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.10">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="Mag_CZ550_10rnd" chance="1.00" />
 		</attachments>
 	</type>
