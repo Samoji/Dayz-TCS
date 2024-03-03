@@ -45,7 +45,7 @@
                             ]
                         },
                         {
-                            "itemType": "Mag_AKM_30Rnd",
+                            "itemType": "Mag_AKM_Drum75Rnd",
                             "attributes": {
                                 "healthMin": 0.5,
                                 "healthMax": 0.5,
@@ -97,7 +97,7 @@
                             ]
                         },
                         {
-                            "itemType": "Mag_AKM_30Rnd",
+                            "itemType": "Mag_AKM_Drum75Rnd",
                             "attributes": {
                                 "healthMin": 1.0,
                                 "healthMax": 1.0,
@@ -175,6 +175,10 @@
                     "quickBarSlot": 3,
                     "simpleChildrenUseDefaultAttributes": false,
                     "simpleChildrenTypes": [
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd",
                         "Mag_AKM_Drum75Rnd"
                     ]
                 },
@@ -190,8 +194,12 @@
                     "quickBarSlot": 3,
                     "simpleChildrenUseDefaultAttributes": true,
                     "simpleChildrenTypes": [
-                        "Mag_AKM_30Rnd",
-                        "Mag_AKM_30Rnd"
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd",
+                        "Mag_AKM_Drum75Rnd"
                     ]
                 }
             ]
@@ -310,7 +318,8 @@
                 "BoarSteakMeat",
                 "FNX45",
                 "Mag_FNX45_15Rnd",
-                "AmmoBox_45ACP_25rnd"
+                "AmmoBox_45ACP_25rnd",
+                "ChernarusMap"
             ]
         },
         {
@@ -330,7 +339,9 @@
                 "AmmoBox_762x39_20Rnd",
                 "CZ75",
                 "Mag_CZ75_15Rnd",
-                "AmmoBox_9x19_25rnd"
+                "AmmoBox_9x19_25rnd",
+                "CanOpener",
+                "ChernarusMap"
             ]
         }
     ]
